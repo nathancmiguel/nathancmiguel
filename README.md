@@ -7,7 +7,7 @@
   <a href="https://www.youtube.com/channel/UCiiLg8_6VShZSTY669CRGgQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/nathan_cmiguel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/NathanCmig" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nathan-miguel-488b462b1" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nathancmiguel" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 Gosto de codar jogos, game engines, IA, websites e etc.
